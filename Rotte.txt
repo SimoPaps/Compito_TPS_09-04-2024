@@ -1,0 +1,11 @@
+Post per prendere il biglietto:
+http://localhost:8888/entrata;
+
+Put per inserire l'uscita:
+http://localhost:8888/biglietto/(id);
+
+Get per stampare il prezzo:
+http://localhost:8888/biglietto/(id);
+
+Delete per la chiusura ed eliminazione del biglietto:
+http://localhost:8888/biglietto/(id);
